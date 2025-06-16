@@ -1,4 +1,4 @@
-<h3 align="center">A new program wrier from India</h3>
+<h3 align="center"> Hi i'm Santa Roy (শান্ত রায়) from india/tripura </h3>
 
 - 🔭 I’m currently working on **N/A**
 
