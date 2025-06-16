@@ -2,17 +2,17 @@
 
 - 🔭 I’m currently working on **N/A**
 
-- 🌱 I’m currently learning **c/c++**
+- 🌱 I’m currently learning **C/C++**
 
-- 👨‍💻 All of my projects are available at [N/A](N/A)
+- 👨‍💻 All of my projects are available at [N/A]
 
-- 📝 I regularly write articles on [N/A](N/A)
+- 📝 I regularly write articles on [N/A]
 
 - 💬 Ask me about **N/A**
 
 - 📫 How to reach me **N/A**
 
-- 📄 Know about my experiences [N/A](N/A)
+- 📄 Know about my experiences [N/A]
 
 - ⚡ Fun fact **N/A**
 
